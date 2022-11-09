@@ -40,3 +40,11 @@ Hongyu Gong, Tarek Sakakini, Suma Bhat and Jinjun Xiong, “Document Similarity 
   year      = {2018},
   publisher = {Association for Computational Linguistics}
 }
+
+#################################
+This repository has been worked on in a school project at Pole Leonardo de Vinci, by students:
+Helge Helø Klemetsdal, Daniel Martino, Jan Prantneer, Queralt Beruingues, Pau Freire
+
+The goal of the work was to improve the performance of the existing code by implementing deep learning clustering
+techniques. The work was done as a part of a project course at ESILV for international students.
+Contact: christophe.rodrigues@devinci.fr(course responsible)
